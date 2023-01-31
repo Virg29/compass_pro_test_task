@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="owm_api_key">0ceae09ef0855b0d4c26511d8e6add8a</string>
+    <string name="default_city">Москва</string>
+    <string name="default_latitude">55.751244</string>
+    <string name="default_longitude">37.618423</string>
+</resources>
